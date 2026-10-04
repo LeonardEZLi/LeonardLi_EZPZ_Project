@@ -1,3 +1,26 @@
+# Simulated Basketball Training System
+
+A first-person basketball practice prototype made in Unity with the EZPZ Interaction Toolkit.
+
+## Draft scene
+
+`Simulated Basketball Training System`
+
+Open `Assets/Simulated Basketball Training System.unity`.
+
+## Player controls
+
+- Click the Game view to focus it.
+- Move with `W`, `A`, `S`, and `D`.
+- Look with the mouse.
+- Aim with the centre crosshair.
+- Use the EZPZ interaction controls to pick up and throw the basketball.
+
+## Draft landmarks and interaction
+
+The scene contains a full indoor court, two baskets, court markings, seating, a scoreboard, and a basketball. The player can navigate the court, pick up the basketball, and throw it toward either basket.
+
+---
 # Overview
 EZPZ Interaction Toolkit can get you building genuine, independently usable, interactive prototypes without needing to write code. All you need to do is drag and drop! Built on top of Unity 3D, it is a collection of scripts and prefabricated objects that you can mix and match to suit your purposes.  
 
